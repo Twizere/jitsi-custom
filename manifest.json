@@ -8,8 +8,8 @@
     }
   ],
   "short_name": "Manifest Rwanda Live",
-  "name": "Manifest Rwanda Live - Video Conferencing",
-  "description": "🇷🇼 Rwanda's premier video conferencing platform - Connecting Rwanda to the world with secure, high-quality meetings.",
+  "name": "Manifest Rwanda Live Service",
+  "description": "Here you can follow service online ",
   "icons": [
     {
       "src": "static/pwa/icons/icon192.png",
