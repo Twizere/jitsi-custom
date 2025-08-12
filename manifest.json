@@ -7,8 +7,9 @@
       "platform": "chromeos_play"
     }
   ],
-  "short_name": "Jitsi Meet",
-  "name": "Jitsi Meet",
+  "short_name": "Manifest Rwanda Live",
+  "name": "Manifest Rwanda Live - Video Conferencing",
+  "description": "🇷🇼 Rwanda's premier video conferencing platform - Connecting Rwanda to the world with secure, high-quality meetings.",
   "icons": [
     {
       "src": "static/pwa/icons/icon192.png",
@@ -28,9 +29,10 @@
     }
   ],
   "start_url": "/",
-  "background_color": "#17A0DB",
+  "background_color": "#1a472a",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#17A0DB"
- }
+  "theme_color": "#1a472a",
+  "categories": ["business", "productivity", "social"]
+}
  

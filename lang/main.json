@@ -1606,7 +1606,7 @@
             "roomname": "Enter room name"
         },
         "addMeetingName": "Add Meeting name",
-        "appDescription": "Go ahead, video chat with the whole team. In fact, invite everyone you know. {{app}} is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.",
+        "appDescription": "Connect with Rwanda and the world! Start a video meeting with your team, community, or family. {{app}} is Rwanda's premier fully encrypted, open-source video conferencing solution that you can use anytime, anywhere — no account required. Built with Rwandan innovation for global impact.",
         "audioVideoSwitch": {
             "audio": "Voice",
             "video": "Video"
@@ -1618,16 +1618,16 @@
         "getHelp": "Get help",
         "go": "GO",
         "goSmall": "GO",
-        "headerSubtitle": "Secure and high quality meetings",
-        "headerTitle": "Jitsi Meet",
+        "headerSubtitle": "🇷🇼 Secure, high-quality meetings for Rwanda and beyond",
+        "headerTitle": "Manifest Rwanda Live",
         "info": "Dial-in info",
-        "jitsiOnMobile": "Jitsi on mobile – download our apps and start a meeting from anywhere",
+        "jitsiOnMobile": "Manifest Rwanda on mobile – download our apps and start a meeting from anywhere in Rwanda",
         "join": "CREATE / JOIN",
         "logo": {
             "calendar": "Calendar logo",
             "desktopPreviewThumbnail": "Desktop preview thumbnail",
             "googleLogo": "Google Logo",
-            "logoDeepLinking": "Jitsi meet logo",
+            "logoDeepLinking": "Manifest Rwanda Live logo",
             "microsoftLogo": "Microsoft logo",
             "policyLogo": "Policy logo"
         },
@@ -1639,9 +1639,9 @@
         "privacy": "Privacy",
         "recentList": "Recent",
         "recentListDelete": "Delete entry",
-        "recentListEmpty": "Your recent list is currently empty. Chat with your team and you will find all your recent meetings here.",
+        "recentListEmpty": "Your recent list is currently empty. Connect with your team and community, and you will find all your recent meetings here.",
         "recentMeetings": "Your recent meetings",
-        "reducedUIText": "Welcome to {{app}}!",
+        "reducedUIText": "Welcome to {{app}}! 🇷🇼",
         "roomNameAllowedChars": "Meeting name should not contain any of these characters: ?, &, :, ', \", %, #.",
         "roomname": "Enter room name",
         "roomnameHint": "Enter the name or URL of the room you want to join. You may make a name up, just let the people you are meeting know it so that they enter the same name.",
@@ -1649,7 +1649,7 @@
         "settings": "Settings",
         "startMeeting": "Start meeting",
         "terms": "Terms",
-        "title": "Secure, fully featured, and completely free video conferencing",
+        "title": "🇷🇼 Empowering Rwanda through seamless digital connections",
         "upcomingMeetings": "Your upcoming meetings"
     },
     "whiteboard": {
